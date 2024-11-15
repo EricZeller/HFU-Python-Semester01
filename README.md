@@ -6,6 +6,6 @@
 
 - [**Aufgabenblatt 04/Lektion 5: Dateien**](./Lektion%205/Aufgabenblatt04.ipynb)
 
-- **Aufgabenblatt 05/Lektion 6: Bisektion**
+- [**Aufgabenblatt 05/Lektion 6: Bisektion**](./Lektion%206/Aufgabenblatt05.ipynb)
 
-- **Aufgabenblatt 06/Lektion 7: Bibliotheken**
+- [**Aufgabenblatt 06/Lektion 7: Bibliotheken**](./Lektion%207/Aufgabenblatt06.ipynb)
