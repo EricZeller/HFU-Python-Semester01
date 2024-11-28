@@ -9,3 +9,5 @@
 - [**Aufgabenblatt 05/Lektion 6: Bisektion**](./Lektion%206/Aufgabenblatt05.ipynb)
 
 - [**Aufgabenblatt 06/Lektion 7: Bibliotheken**](./Lektion%207/Aufgabenblatt06.ipynb)
+
+- [**Aufgabenblatt 06/Lektion 7: Bibliotheken**](./Lektion%208/Aufgabenblatt07.ipynb)
