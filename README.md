@@ -10,6 +10,7 @@
 
 - [**Aufgabenblatt 06/Lektion 7: Bibliotheken**](./Lektion%207/Aufgabenblatt06.ipynb)
 
-- [**Aufgabenblatt 07/Lektion 8: Bibliotheken**](./Lektion%208/Aufgabenblatt07.ipynb)
+- [**Aufgabenblatt 07/Lektion 8: Dictionaries**](./Lektion%208/Aufgabenblatt07.ipynb)
 
-- [**Aufgabenblatt 08/Lektion 9: Bibliotheken**](./Lektion%209/Aufgabenblatt08.ipynb)
+- [**Aufgabenblatt 08/Lektion 9: Tiefensuche**](./Lektion%209/Aufgabenblatt08.ipynb)
+
