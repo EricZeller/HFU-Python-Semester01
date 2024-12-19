@@ -14,7 +14,7 @@
 
 - [**Aufgabenblatt 08/Lektion 9: Tiefensuche**](./Lektion%209/Aufgabenblatt08.ipynb)
 
-- [**Aufgabenblatt 09/Lektion 10: Klassen**](./Lektion%210/Aufgabenblatt09.ipynb)
+- [**Aufgabenblatt 09/Lektion 10: Klassen**](./Lektion%2010/Aufgabenblatt09.ipynb)
 
 - [**Aufgabenblatt 10/Lektion 11: Fortsetzung Klassen**](./Lektion%211/Aufgabenblatt09.ipynb)
 
