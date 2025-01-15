@@ -24,8 +24,9 @@ class Person:
         return f"{self.__fname} {self.__lname} (geb. {self.__bday})"
 
     def naechster_geburtstag(self):
-        if self.bday.month >= date.today().month and self.bday.day >= date.today().day:
-            nextbday = self.__bday.replace(year=date.today().year)
+        if self.bday.day >= date.today().day:
+            if self.bday.month >= date.today().month:
+                nextbday = self.__bday.replace(year=date.today().year)
         else:
             nextbday = self.__bday.replace(year=date.today().year + 1)
         return nextbday
@@ -53,6 +54,7 @@ class Personendatenbank:
                 line['bday']
             )
             self.einfuegen(neueperson)
+            print(neueperson.naechster_geburtstag())
         print(f"{len(jsonliste)} Person/en eingelesen.")
 
     def speichere(self, datei):
