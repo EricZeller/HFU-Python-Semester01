@@ -24,13 +24,12 @@ class Person:
         return f"{self.__fname} {self.__lname} (geb. {self.__bday})"
 
     def naechster_geburtstag(self):
-        if self.bday.day >= date.today().day:
-            if self.bday.month >= date.today().month:
-                nextbday = self.__bday.replace(year=date.today().year)
-        else:
-            nextbday = self.__bday.replace(year=date.today().year + 1)
-        return nextbday
+        today = date.today()
+        nextbday = self.bday.replace(year=today.year)
 
+        if (self.bday.month, self.bday.day) < (today.month, today.day):
+            nextbday = self.bday.replace(year=today.year + 1)
+        return nextbday
 
 class Personendatenbank:
     def __init__(self):
