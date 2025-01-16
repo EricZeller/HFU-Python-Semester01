@@ -57,8 +57,6 @@ def mainloop():
             for p in datenbank.naechste_geburtstage():
                 nAlter = p.naechster_geburtstag().year - p.bday.year
                 print(f"- {p.fname} {p.lname}, feiert am {p.naechster_geburtstag()} den {nAlter}. Geburtstag")
-                i += 1
-                if i == 5: break
 
         elif auswahl == 7:
             print("Auf Wiedersehen!")

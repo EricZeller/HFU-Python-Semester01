@@ -77,4 +77,6 @@ class Personendatenbank:
     def naechste_geburtstage(self):
         naechste_geburtstage = self.__pliste
         naechste_geburtstage = sorted(naechste_geburtstage, key=Person.naechster_geburtstag)
+        if len(naechste_geburtstage) > 5:
+            naechste_geburtstage = naechste_geburtstage[:5:]
         return naechste_geburtstage
