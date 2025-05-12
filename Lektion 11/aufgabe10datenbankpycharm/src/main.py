@@ -1,0 +1,2 @@
+import hauptprogramm
+hauptprogramm.mainloop()

@@ -1,0 +1,57 @@
+[
+    {
+        "fname": "John",
+        "lname": "Wick",
+        "bday": "2004-01-05"
+    },
+    {
+        "fname": "Lara",
+        "lname": "Croft",
+        "bday": "1998-07-12"
+    },
+    {
+        "fname": "Harry",
+        "lname": "Potter",
+        "bday": "1980-07-31"
+    },
+    {
+        "fname": "Tony",
+        "lname": "Stark",
+        "bday": "1970-05-29"
+    },
+    {
+        "fname": "Bruce",
+        "lname": "Wayne",
+        "bday": "1939-02-19"
+    },
+    {
+        "fname": "Clark",
+        "lname": "Kent",
+        "bday": "1938-06-18"
+    },
+    {
+        "fname": "Diana",
+        "lname": "Prince",
+        "bday": "1918-03-22"
+    },
+    {
+        "fname": "Peter",
+        "lname": "Parker",
+        "bday": "2001-08-10"
+    },
+    {
+        "fname": "Leia",
+        "lname": "Organa",
+        "bday": "1959-10-21"
+    },
+    {
+        "fname": "Frodo",
+        "lname": "Baggins",
+        "bday": "2968-09-22"
+    },
+    {
+        "fname": "Katniss",
+        "lname": "Everdeen",
+        "bday": "1990-05-08"
+    }
+]
